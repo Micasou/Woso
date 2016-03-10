@@ -1,0 +1,126 @@
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\WorkoutSocialMedia.dll.config
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\WorkoutSocialMedia.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\WorkoutSocialMedia.pdb
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Antlr3.Runtime.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\EntityFramework.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\EntityFramework.SqlServer.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.Google.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Web.Infrastructure.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Newtonsoft.Json.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Owin.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Helpers.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Mvc.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Optimization.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Razor.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.WebPages.Deployment.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.WebPages.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.WebPages.Razor.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\WebGrease.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Helpers.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Mvc.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Optimization.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Razor.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.WebPages.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.WebPages.Deployment.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.WebPages.Razor.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Antlr3.Runtime.pdb
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Newtonsoft.Json.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\EntityFramework.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\EntityFramework.SqlServer.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.Google.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\obj\Debug\WorkoutSocialMedia.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\obj\Debug\WorkoutSocialMedia.pdb
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\HtmlAgilityPack.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\HtmlAgilityPack.pdb
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\bin\HtmlAgilityPack.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia\obj\Debug\WorkoutSocialMedia.csprojResolveAssemblyReference.cache
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\WorkoutSocialMedia.dll.config
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\WorkoutSocialMedia.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\WorkoutSocialMedia.pdb
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Antlr3.Runtime.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\EntityFramework.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\EntityFramework.SqlServer.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\HtmlAgilityPack.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Newtonsoft.Json.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Owin.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Helpers.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Mvc.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Optimization.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Razor.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.WebPages.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\WebGrease.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\HtmlAgilityPack.pdb
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\HtmlAgilityPack.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Helpers.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Mvc.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Optimization.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Razor.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.WebPages.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Antlr3.Runtime.pdb
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Newtonsoft.Json.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\EntityFramework.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\EntityFramework.SqlServer.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\obj\Debug\WorkoutSocialMedia.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\obj\Debug\WorkoutSocialMedia.pdb
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\PagedList.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\PagedList.Mvc.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\PagedList.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\PagedList.Mvc.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Net.Http.Formatting.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Http.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Http.WebHost.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Net.Http.Formatting.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Http.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\bin\System.Web.Http.WebHost.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia\obj\Debug\WorkoutSocialMedia.csprojResolveAssemblyReference.cache

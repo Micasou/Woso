@@ -1,0 +1,53 @@
+﻿@model IEnumerable<WorkoutSocialMedia.Models.Workout>
+@{
+    ViewBag.Title = "WorkoutGenerator";
+}
+
+<h2>Workout Generator</h2>
+
+<p>
+@using (Html.BeginForm("workoutgenerator", "Exercises", FormMethod.Get))
+{
+    <p>
+    Select Workout Type @Html.DropDownList("Type", new SelectList(new Dictionary<string, string> { { "Upper", "Upper Body" }, { "Lower", "Lower Body" }, { "Full", "Full Body" } }, "Key", "Value", ViewBag.SearchType as string))
+    <br />Select Workout Focus @Html.DropDownList("Focus", new SelectList(new Dictionary<string, string> { { "Strength", "Strength" }, { "Endurance", "Endurance" }, { "Mixed", "Mixed" } }, "Key", "Value", ViewBag.SearchType as string))
+       <br /> <input type="submit" value="Search" />
+    </p>
+}
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+           Description
+        </th>
+        <th>
+            Muscle Group
+        </th>
+        <th>
+            Rep Range
+        </th>
+    </tr>
+
+@if (Model != null) { 
+foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Exercise.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Exercise.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Exercise.Target)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Reps)
+        </td>
+    </tr>
+}
+}
+
+</table>

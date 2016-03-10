@@ -1,0 +1,89 @@
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\WorkoutSocialMedia.Tests.dll.config
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\WorkoutSocialMedia.Tests.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\WorkoutSocialMedia.Tests.pdb
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\WorkoutSocialMedia.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.Owin.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Owin.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\EntityFramework.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\WorkoutSocialMedia.pdb
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.Optimization.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.Owin.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\EntityFramework.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\obj\Debug\WorkoutSocialMedia.Tests.csprojResolveAssemblyReference.cache
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\obj\Debug\WorkoutSocialMedia.Tests.dll
+c:\users\shikari\documents\visual studio 2013\Projects\WorkoutSocialMedia\WorkoutSocialMedia.Tests\obj\Debug\WorkoutSocialMedia.Tests.pdb
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\WorkoutSocialMedia.Tests.dll.config
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\WorkoutSocialMedia.Tests.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\WorkoutSocialMedia.Tests.pdb
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\WorkoutSocialMedia.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Owin.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\PagedList.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\WorkoutSocialMedia.pdb
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\PagedList.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\obj\Debug\WorkoutSocialMedia.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\obj\Debug\WorkoutSocialMedia.Tests.dll
+C:\Users\Shikari\Desktop\WoSO\WorkoutSocialMedia\WorkoutSocialMedia.Tests\obj\Debug\WorkoutSocialMedia.Tests.pdb
